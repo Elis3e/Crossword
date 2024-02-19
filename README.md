@@ -1,4 +1,4 @@
-# MotsCroisesFX
+# Mots Croisés
 Un jeu de mots croisés avec 11 grilles différentes (en anglais & français) et 3 niveaux de difficulté. 
 L'interface graphique a été faite avec JavaFX.
 
