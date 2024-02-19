@@ -1,0 +1,16 @@
+.text-field:focused {
+    -fx-border-style: dashed;
+    -fx-border-color: skyblue;
+    -fx-border-width: 2px;
+}
+
+.case_correcte {
+    -fx-background-color: lightgreen;
+}
+
+.text-field {
+    -fx-alignment: center;
+    -fx-font-weight: bold;
+    -fx-border-color: black;
+    -fx-border-width: 1px;
+}
