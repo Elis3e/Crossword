@@ -9,9 +9,9 @@ L'interface graphique a été faite avec JavaFX.
 </p>
 
 ## Config ⚙️
-<p> Java 16+ </p>
-<p> Javafx sdk </p>
-<P> Run src/motCroisee/v2/App.java </p>
+<p> ⚙️ Java 16+ </p>
+<p> ⚙️ Javafx sdk </p>
+<P> ▶️ src/motCroisee/v2/App.java </p>
 
 
 
